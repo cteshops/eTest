@@ -1,14 +1,6 @@
 [
   {
     "type": "coding",
-    "text": "You are given the following matrix:\n\n```\n1 2 3\n4 5 6\n7 8 9\n```\n\nWrite a Python function that takes this matrix as input and returns the sum of the elements in the main diagonal."
-  },
-  {
-    "type": "coding",
-    "text": "MBR support up to partitions."
-  },
-{
-    "type": "coding",
-    "text": "MBR support up to partitions."
+    "text": "Narcissistic Number\n A narcissistic number (also called an Armstrong number) is a number that equals the sum of its own digits each raised to the power of the number of digits.\n E.g.: 153 = 1³ + 5³ + 3³ = 1 + 125 + 27 = 153\n Write a function is_narcissistic(n) that returns True if n is a narcissistic number, and False otherwise. Then write a second function find_narcissistic(num) that returns a list of all narcissistic numbers from 0 up to num."
   }
 ]
